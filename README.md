@@ -6,8 +6,10 @@
 与"拔刀剑：双刃重铸"兼容，数值完全服务端可配置(平衡性)
 
 ---
+
 本模组由作者与 Kimi（Moonshot AI） 结对设计并开发：机制讨论、代码实现与调试中均有 AI 参与。
 音效（blade_burst / blade_burst_heavy）与满刀徽章贴图（jackpot.png）为 AI 生成资产。
+
 ---
 
 ## 一、项目结构
