@@ -1,0 +1,12 @@
+{
+    "blade_burst": {
+        "sounds": [
+            { "name": "insaneblade:blade_burst", "volume": 1.0 }
+        ]
+    },
+    "blade_burst_heavy": {
+        "sounds": [
+            { "name": "insaneblade:blade_burst_heavy", "volume": 1.0 }
+        ]
+    }
+}
